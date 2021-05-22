@@ -1,0 +1,30 @@
+C:\Users\Islam\Documents\Axes\bin\Debug\Axes.exe.config
+C:\Users\Islam\Documents\Axes\bin\Debug\Axes.exe
+C:\Users\Islam\Documents\Axes\bin\Debug\Axes.pdb
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes.csprojAssemblyReference.cache
+C:\Users\Islam\Documents\Axes\obj\Debug\MainWindow.g.cs
+C:\Users\Islam\Documents\Axes\obj\Debug\App.g.cs
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes_MarkupCompile.cache
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes_MarkupCompile.lref
+C:\Users\Islam\Documents\Axes\obj\Debug\MainWindow.baml
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes.g.resources
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes.Properties.Resources.resources
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes.csproj.GenerateResource.cache
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes.exe
+C:\Users\Islam\Documents\Axes\obj\Debug\Axes.pdb
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\bin\Debug\Axes.exe.config
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\bin\Debug\Axes.exe
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\bin\Debug\Axes.pdb
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes.csprojAssemblyReference.cache
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\MainWindow.g.cs
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\App.g.cs
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes_MarkupCompile.cache
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes_MarkupCompile.lref
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\MainWindow.baml
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes.g.resources
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes.Properties.Resources.resources
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes.csproj.GenerateResource.cache
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes.exe
+D:\Учёба\3 курс\6 семестр\Компьютераная графика\Computer_graphics-master\KG6\Axes\obj\Debug\Axes.pdb
